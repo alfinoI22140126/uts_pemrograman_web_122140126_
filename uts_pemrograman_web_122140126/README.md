@@ -15,4 +15,4 @@ React Icons - Koleksi ikon untuk tampilan yang lebih baik.
 
 CSS Modules - Styling komponen dengan modular.
 
-React Router (Jika diimplementasikan) - Navigasi multi-halaman.
+React Router  - Navigasi multi-halaman.
